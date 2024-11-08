@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+  color: white;
+  padding: 32px;
+}
+
+button{
+  margin: 8px;
+}
